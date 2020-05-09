@@ -1,5 +1,13 @@
 ![Demo](./src/Screenshot.png)
 
+## ReactTodoList
+
+Met deze To-Do lijst app vergeet je niets meer!  Met deze app kun je taken toevoegen, een taak doorstrepen als die gedaan is en een taak weer verwijderen.
+
+### Project doel
+Dit zelf-project is bedoeld als oefening-project om vertrouwd te raken met React (inputfields, components, setStates).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
